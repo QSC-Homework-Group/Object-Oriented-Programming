@@ -1,0 +1,3 @@
+[submodule "FatMouse-OOP"]
+	path = FatMouse-OOP
+	url = git@github.com:richard1122/Object_Oriented_Programming_ZJU_FatMouse.git
